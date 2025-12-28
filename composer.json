@@ -1,0 +1,7 @@
+{
+    "name": "render/telegram-bot",
+    "description": "PHP Telegram Bot on Render",
+    "require": {
+        "php": "^8.1"
+    }
+}
